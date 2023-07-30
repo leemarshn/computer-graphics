@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/brasen_line.dir/BrasenhamLineDrawing.c.o -o brasen_line  /usr/lib64/libOpenGL.so /usr/lib64/libGLX.so /usr/lib64/libGLU.so /usr/lib64/libglut.so -lm 

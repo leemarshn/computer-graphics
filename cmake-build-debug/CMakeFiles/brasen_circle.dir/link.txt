@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/brasen_circle.dir/Brasenham.c.o -o brasen_circle  /usr/lib64/libOpenGL.so /usr/lib64/libGLX.so /usr/lib64/libGLU.so /usr/lib64/libglut.so -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/mid_point_circle.dir/MidPointCircle.c.o -o mid_point_circle  /usr/lib64/libOpenGL.so /usr/lib64/libGLX.so /usr/lib64/libGLU.so /usr/lib64/libglut.so -lm 

@@ -1,0 +1,7 @@
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/untitled2.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/assignment.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/brasen_circle.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/mid_point_circle.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/brasen_line.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leen/CLionProjects/computer-graphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
